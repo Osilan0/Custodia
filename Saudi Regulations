@@ -1,0 +1,34 @@
+Saudi Regulations
+
+
+LoRa Communication Regulations in Saudi Arabia:
+
+Using LoRa on the ISM bands does not require an individual spectrum license (no fee or frequency assignment needed) as long as devices meet the technical specs. However, a service license is required if providing IoT connectivity as a service to third parties. CST’s IoT regulations state that deploying license-exempt LPWAN networks for others (commercial use) is subject to obtaining an IoT service provider license
+
+It means It is permitted to operate private LoRa networks without a license if they are used internally and typically within a closed area. The equipment must be type-approved and installed by the property owner. For outdoor or public, LoRaWAN deployments require a CST license.
+
+
+Satellite Communication & Spectrum Rules
+
+Operators must obtain registration or network licenses from CST to provide service in KSA; end‑user terminals do not require separate licenses if they are provided through licensed operators
+
+Use of satellite uplinks involves designated licensed spectrum held by the satellite provider which means our devices must be CST type‑approved and the provider must be registered in KSA.
+
+All telecom/IT devices must be type‑approved by CST before import or deployment; labeling and local or accredited testing are required
+
+Devices defined as IoT must obtain a CST certificate; user manuals must explain connectivity limitations; manufacturers must educate users about security; foreign SIMs allowed for a max of 120 days before replacing with local SIMs
+
+Use of IPv6 is recommended; CST may require periodic reports from IoT providers; all systems must adhere to national data, security, privacy rules
+
+
+
+Data Processing, Storage & Localization
+All servers used in providing IoT services, and all data, be hosted inside the Kingdom
+
+Public sector entity data must remain within Saudi territory, no transfer abroad including for caching/backups, unless specifically allowed and approved by CST and the customer
+
+CST may require service providers to monitor, log, and provide data logs on demand to authorities; service providers must implement risk management, business continuity, and secure user protection mechanisms
+
+Implementing Regulations mandate rules for protecting user data, preserving confidentiality, and classifying information; service providers bear responsibility for confidentiality of communications
+
+CST can request logs from IoT service providers; expect data retention for minimum periods (12 months recommended) for regulatory inspection; logs must remain within national jurisdiction; service providers responsible for record-keeping accuracy.
