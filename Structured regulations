@@ -1,0 +1,25 @@
+Communications, Space & Technology Commission (CST)
+Requirement: Registration and Licensing of IoT Devices
+Nature: Mandatory
+Details: As per the regulations governing the use of IoT devices in Saudi Arabia, you must register and obtain proper licensing for the IoT devices used in your monitoring system. This ensures that all devices comply with national telecommunications standards and interference regulations.
+Action: Apply for IoT device registration and licensing through the CST portal.
+
+National Cybersecurity Authority (NCA)
+Requirement: Cybersecurity Compliance
+Nature: Mandatory
+Details: All systems that collect, store, and process data must adhere to the national cybersecurity regulations to protect against unauthorized access and cyber threats.
+Action: Implement cybersecurity measures that comply with the NCA guidelines, including secure data transmission, data encryption, and regular security audits.
+
+
+Personal Data Protection Law (PDPL)
+Requirement: Compliance with Data Protection Regulations
+Nature: Mandatory
+Details: If your system handles any personal data which i guess so (even indirectly, such as staff managing the horses), compliance with PDPL is required. This includes ensuring data privacy, obtaining necessary consents, and secure data handling practices.
+Action: Review and align your data handling practices with PDPL. Implement necessary data protection measures such as consent forms, privacy notices, and data rights management.
+
+
+Ministry of Environment, Water and Agriculture (MEWA)
+Requirement: Animal Welfare Compliance
+Nature: Mandatory
+Details: Since the system is used in an environment with hourses, ensure compliance with the regulations set forth by MEWA regarding animal welfare and technology use around animals.
+Action: I will search on MEWA guidelines on technology use in animal care environments and ensure the system adheres to these standards.
