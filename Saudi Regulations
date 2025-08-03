@@ -7,6 +7,7 @@ Using LoRa on the ISM bands does not require an individual spectrum license (no 
 
 It means It is permitted to operate private LoRa networks without a license if they are used internally and typically within a closed area. The equipment must be type-approved and installed by the property owner. For outdoor or public, LoRaWAN deployments require a CST license.
 
+Apply for IoT device registration and licensing through the CST portal
 
 Satellite Communication & Spectrum Rules
 
@@ -16,6 +17,10 @@ Use of satellite uplinks involves designated licensed spectrum held by the satel
 
 All telecom/IT devices must be type‑approved by CST before import or deployment; labeling and local or accredited testing are required
 
+SIM Type: Use of Machine-to-Machine or IoT-specific SIM cards is recommended
+
+If operating at scale, registration as a Virtual Network Operator (VNO) might be required, it depends on the business model and partnership with local network operators.
+
 Devices defined as IoT must obtain a CST certificate; user manuals must explain connectivity limitations; manufacturers must educate users about security; foreign SIMs allowed for a max of 120 days before replacing with local SIMs
 
 Use of IPv6 is recommended; CST may require periodic reports from IoT providers; all systems must adhere to national data, security, privacy rules
@@ -24,6 +29,12 @@ Use of IPv6 is recommended; CST may require periodic reports from IoT providers;
 
 Data Processing, Storage & Localization
 All servers used in providing IoT services, and all data, be hosted inside the Kingdom
+
+Requires data localization for certain types of sensitive personal data, including geo-tagged data.
+
+National Cybersecurity Authority (NCA) enforces stringent cybersecurity measures for storing and processing data within Saudi Arabia.
+
+
 
 Public sector entity data must remain within Saudi territory, no transfer abroad including for caching/backups, unless specifically allowed and approved by CST and the customer
 
