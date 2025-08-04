@@ -1,3 +1,19 @@
+Communications and Information Technology Law - Article 5
+This article mandates obtaining a license from CST before engaging in activities such as:
+- Providing telecommunication services to the public or using a communications network for this purpose.
+- Offering infrastructure services for public telecommunication networks.
+- Using any numbering resources or frequency spectrum.
+- Providing services related to the registration of Saudi domain names or establishing registration centers.
+
+Article 36
+This provision outlines the CST's role in setting technical specifications and standards for telecommunication and information technology devices in coordination with the Saudi Standards, Metrology and Quality Organization (SASO). The law states:
+"The Authority sets the specifications and technical standards for telecommunications and information technology devices in coordination with the Saudi Standards, Metrology and Quality Organization, and takes the necessary actions to ensure devices comply with these technical standards."
+
+Broadcasting Media Law - Article 11
+While primarily focused on broadcasting, this article also mentions the necessity of meeting the requirements set by the CST for frequency allocation and licensing in the context of broadcasting systems that use frequencies. It states:
+"Before granting a broadcasting license using frequencies, the requirements related to the allocation and licensing of frequencies by the Communications and Information Technology Authority must be met..."
+
+
 Communications, Space & Technology Commission (CST)
 Requirement: Registration and Licensing of IoT Devices
 Nature: Mandatory
@@ -23,3 +39,5 @@ Requirement: Animal Welfare Compliance
 Nature: Mandatory
 Details: Since the system is used in an environment with hourses, ensure compliance with the regulations set forth by MEWA regarding animal welfare and technology use around animals.
 Action: I will search on MEWA guidelines on technology use in animal care environments and ensure the system adheres to these standards.
+
+
